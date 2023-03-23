@@ -994,6 +994,141 @@
     <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-100.png">
+      <PackagePath>earth.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-125.png">
+      <PackagePath>earth.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-150.png">
+      <PackagePath>earth.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-200.png">
+      <PackagePath>earth.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-400.png">
+      <PackagePath>earth.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgback.scale-100.png">
+      <PackagePath>imgback.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgexplore.scale-100.png">
+      <PackagePath>imgexplore.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgfavorite.scale-100.png">
+      <PackagePath>imgfavorite.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgmenu.scale-100.png">
+      <PackagePath>imgmenu.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgsearch.scale-100.png">
+      <PackagePath>imgsearch.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-100.png">
+      <PackagePath>jupiter.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-125.png">
+      <PackagePath>jupiter.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-150.png">
+      <PackagePath>jupiter.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-200.png">
+      <PackagePath>jupiter.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-400.png">
+      <PackagePath>jupiter.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-100.png">
+      <PackagePath>mars.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-125.png">
+      <PackagePath>mars.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-150.png">
+      <PackagePath>mars.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-200.png">
+      <PackagePath>mars.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-400.png">
+      <PackagePath>mars.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-100.png">
+      <PackagePath>mercury.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-125.png">
+      <PackagePath>mercury.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-150.png">
+      <PackagePath>mercury.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-200.png">
+      <PackagePath>mercury.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-400.png">
+      <PackagePath>mercury.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-100.png">
+      <PackagePath>neptune.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-125.png">
+      <PackagePath>neptune.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-150.png">
+      <PackagePath>neptune.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-200.png">
+      <PackagePath>neptune.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-400.png">
+      <PackagePath>neptune.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-100.png">
+      <PackagePath>saturn.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-125.png">
+      <PackagePath>saturn.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-150.png">
+      <PackagePath>saturn.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-200.png">
+      <PackagePath>saturn.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-400.png">
+      <PackagePath>saturn.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-100.png">
+      <PackagePath>uranus.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-125.png">
+      <PackagePath>uranus.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-150.png">
+      <PackagePath>uranus.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-200.png">
+      <PackagePath>uranus.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-400.png">
+      <PackagePath>uranus.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-100.png">
+      <PackagePath>venus.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-125.png">
+      <PackagePath>venus.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-150.png">
+      <PackagePath>venus.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-200.png">
+      <PackagePath>venus.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\KIVIPALLUR-6\source\repos\SolarSystemMobile\SolarSystemMobile\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-400.png">
+      <PackagePath>venus.scale-400.png</PackagePath>
+    </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Users\KIVIPALLUR-6\.nuget\packages\microsoft.windowsappsdk\1.1.5\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
